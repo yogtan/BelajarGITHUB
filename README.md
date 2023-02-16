@@ -1,2 +1,2 @@
-# Semester-1
+# MateriPerkuliahan
 Repository untuk  Perkuliahan Semester 1
