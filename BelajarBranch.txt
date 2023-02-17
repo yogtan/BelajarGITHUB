@@ -1,2 +1,3 @@
 Haloo ini Branch pertamaku
 Mencoba Commit di Beda Branch
+Belajar commit di git bush
