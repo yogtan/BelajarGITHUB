@@ -1,0 +1,30 @@
+body{
+    background-color: #EEE9DA;
+    background-image: url(gambar/Dra.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right ;
+    
+}   
+
+#menu_web{
+    background: darkcyan
+}
+.menu{
+    color: brown;
+}
+#menu_pendidikan{
+    color: darkcyan
+}
+#menu_kemampuan{
+    color: darkcyan;
+}
+
+h1{
+    color: brown;
+    font-size: 30px;
+}
+
+h2{
+    color: brown;
+}
